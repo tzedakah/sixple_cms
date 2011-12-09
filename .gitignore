@@ -1,5 +1,15 @@
 .bundle
 db/*.sqlite3
 log/*.log
-tmp/
 .sass-cache/
+.idea/**/*
+.bundle
+tmp/**/*
+tmp/*
+doc/api
+doc/app
+*.swp
+*~
+*.komodoproject
+.komodotools
+DS_Store

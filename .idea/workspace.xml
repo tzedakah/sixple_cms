@@ -27,10 +27,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="hello.html.erb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="hello.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/demo/hello.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="18" selection-start="282" selection-end="282" vertical-scroll-proportion="0.3700121">
+            <state line="18" column="18" selection-start="282" selection-end="282" vertical-scroll-proportion="-11.769231">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="9" selection-start="140" selection-end="140" vertical-scroll-proportion="0.27901524">
               <folding />
             </state>
           </provider>
@@ -80,6 +89,7 @@
         <option value="$PROJECT_DIR$/app/views/demo/index.html.erb" />
         <option value="$PROJECT_DIR$/app/controllers/demo_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/demo/hello.html.erb" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -521,7 +531,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="1010" extended-state="6" />
+    <frame x="-8" y="-8" width="1296" height="1010" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -657,7 +667,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/demo/hello.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="18" selection-start="282" selection-end="282" vertical-scroll-proportion="0.3700121">
+        <state line="18" column="18" selection-start="282" selection-end="282" vertical-scroll-proportion="-11.769231">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="9" selection-start="140" selection-end="140" vertical-scroll-proportion="0.27901524">
           <folding />
         </state>
       </provider>
