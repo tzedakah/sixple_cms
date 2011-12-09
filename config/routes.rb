@@ -1,5 +1,7 @@
 SixpleCms::Application.routes.draw do
   get "demo/index"
+  get "demo/hello"
+  get "demo/other_hello"
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
