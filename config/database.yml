@@ -14,8 +14,8 @@ development:
   reconnect: false
   database: sixple_cms_development
   pool: 5
-  username: root
-  password: as1yyaH
+  username: sixple_cms
+  password: secretpassword
   host: localhost
 
 # Warning: The database defined as "test" will be erased and
