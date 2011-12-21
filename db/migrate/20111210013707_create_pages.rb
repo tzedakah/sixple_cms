@@ -1,5 +1,6 @@
 class CreatePages < ActiveRecord::Migration
-  def change
+
+  def self.up
     create_table :pages do |t|
       t.integer "subject_id"
       # can also use: t.references :subject
@@ -12,4 +13,10 @@ class CreatePages < ActiveRecord::Migration
     add_index("pages", "subject_id")
     add_index("pages", "permalink")
   end
+
+  def self.down
+    drop_table :pages
+  end
+
 end
+
